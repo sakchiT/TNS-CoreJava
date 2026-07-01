@@ -1,5 +1,5 @@
 package jdbcPgm;
-// connecting java application to the postqresql database using JDBC API
+// connecting (eclipse)java application to the postqresql (pg4admin)database using JDBC API
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.DriverManager;
@@ -33,7 +33,7 @@ public class JDBC {
 	String strselect="select sname , sid , bname , bcode , renewdate from librarybooks";
 	System.out.println("the sql statement is " + strselect);
 	
-	//process the result to display
+	//step6:process the result to display
 	ResultSet rst = st.executeQuery(strselect);
 	System.out.println("the records are:");
 	int rowcount=0;
