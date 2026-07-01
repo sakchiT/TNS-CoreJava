@@ -1,7 +1,7 @@
 package day5;
 //demo for final variable
 
-public class Final
+/**public class Final
 {         
 	final int x = 90;  // final instance variable must be initialized final 
 	final int s=90; 
@@ -13,6 +13,10 @@ public class Final
 		// x=9;        
 		// z=4; 
 	}
+}**/
+import java.util.Scanner;
+public class {
+	
 }
 
 
