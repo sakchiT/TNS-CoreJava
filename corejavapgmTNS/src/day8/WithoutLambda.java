@@ -19,5 +19,4 @@ public class WithoutLambda {
 		d.draw();
 
 	}
-
 }

@@ -46,8 +46,6 @@ public class JDBC {
 		System.out.printf(sname+" "+sid+" "+bname+" "+bcode+" "+renewdate);
 		System.out.println();
 		++rowcount;
-		
-		
 	}
 	}
 
