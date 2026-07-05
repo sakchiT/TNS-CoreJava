@@ -13,8 +13,8 @@ public class Encapsulation {
 		               
 		 Encapsulation e=new Encapsulation();               
 		 e.serialnumber=9;                
-		 e.name="Ramesh";                
-		 e.age=56;                                
+		 e.name="sakshi";                
+		 e.age=23;                                
 		 e.show();       
 		 } 
 	}
